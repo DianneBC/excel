@@ -1,6 +1,6 @@
 # excel
 
-In this project I Performed an in-depth analysis on a retail sales dataset using advanced Excel functions and visualisation tools.
+In this project I performed an in-depth analysis on a retail sales dataset using advanced Excel functions and visualisation tools.
 
 Key skills demonstrated:
 
