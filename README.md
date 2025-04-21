@@ -18,4 +18,4 @@ Pivot Tables: Summarised large datasets for clearer analysis by category.
 
 Slicers: Enabled interactive filtering of Pivot Table data by key variables.
 
-Charts: Created visual representations to highlight trends and comparisons.
+Charts: Created visual representation using a column chart to highlight trends and comparisons.
